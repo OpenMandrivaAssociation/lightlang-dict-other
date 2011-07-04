@@ -13,11 +13,8 @@ Name: lightlang-dict-other
 Version:	%{version}
 Release:	%{release}
 License: GPL
-Group: Applications/Office
+Group: Office
 URL: http://lightlang.org.ru
-
-Packager: Alexander Kazantcev <kazancas@mandriva.ru>
-Vendor: EduMandriva <www.edumandriva.ru>
 
 Source: %{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
