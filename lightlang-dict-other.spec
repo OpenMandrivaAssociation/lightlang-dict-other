@@ -14,7 +14,7 @@ Version:	%{version}
 Release:	%{release}
 License: GPL
 Group: Office
-URL: http://lightlang.org.ru
+URL: https://lightlang.org.ru
 
 Source: %{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
