@@ -4,7 +4,7 @@
 
 %define version 0.0.1
 %define	rel	1
-%define release %mkrel %{rel}
+%define release %{rel}.1
 
 %{?dist: %{expand: %%define %dist 1}}
 
